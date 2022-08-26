@@ -8,5 +8,4 @@ nickname = input("Wie ist dein Nickname?")
 # Über das Komma werden die gewünschten Elemente für die Ausgabe aufgelistet.
 print("Hallo", nickname, "!")
 
-# TODO: Was passiert, wenn ihr 'Hallo', nickname und '!' in drei verschiedenen print Anweisungen
-# ausgeben lasst, statt in einer?
+# TODO: Was passiert, wenn ihr 'Hallo', nickname und '!' in drei verschiedenen print Anweisungen ausgeben lasst, statt in einer?
