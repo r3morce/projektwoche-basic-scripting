@@ -1,9 +1,17 @@
-# Habt ihr herausgefunden, wie es funktioniert? Super!
-# Wenn nicht ist auch nicht schlimm. Auch wenn nur eine kurze Funktion "int()" benötigt wird, ist es gar nicht so leicht darauf zu kommen.
-# Mit "int()" werden Eingaben in einen Integer (Ganzzahl) umgeformt, das nennt man auch Parsen.
+# Lösung zur Rechercheaufgabe
 
-zahl_1 = int(input("Welche ist die erste Zahl?"))
-zahl_2 = int(input("Welche ist die zweite Zahl?"))
+# Habt ihr herausgefunden, wie es funktioniert? Super!
+
+# Wenn nicht ist auch nicht schlimm. Auch wenn nur eine kurze Funktion "int()" benötigt wird, ist es gar nicht so leicht darauf zu kommen.
+
+# "int()" ist eine Funktion. Funktionen nehmen in den Klammern Werte entgegen und stellen etwas damit an.
+# print("Hallo Welt") kennt ihr ja schon, der Wert "Hallo Welt" wirkt entgegen genommen und auf der Konsole ausgegeben
+# input("Name?") fragt den Nutzer nach einem Wert und gibt ihn so zurück, dass er in eine Variable gespeichert werden kann.
+# int("3") ist eine Funktion die einen Wert entgegennimmt und versucht in einen Integer (Ganzzahl) umzuwandeln. Wenn das klappt kann der Integer in einer Variablen gespeichert werden.
+# Das Umformen von Werten in einen anderen Datentypen nennt man auch Parsen.
+
+zahl_1 = int(input("Welche ist die erste Zahl? "))
+zahl_2 = int(input("Welche ist die zweite Zahl? "))
 
 print(zahl_1 + zahl_2)
 

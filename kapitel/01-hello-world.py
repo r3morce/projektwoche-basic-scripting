@@ -1,3 +1,5 @@
+# Kapitel: Hallo Welt
+
 # Mit dem Befehl "print" werden Buchstaben oder Zahlen in der Konsole ausgegeben.
 # Was ausgegeben werden soll, muss in () hinter dem Befehl stehen.
 # Sollen Buchstaben bzw. Zeichenketten ausgegeben werden, müssen diese in 'einfache' oder "doppelte" Anführungszeichen gesetzt werden.

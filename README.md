@@ -11,8 +11,8 @@ Dieses Projekt enthält eine Aufgabensammlung um die Grundlagen der Programmiers
 4. Öffne die Seite https://www.online-python.com/ in deinem Browser
 5. Klicke oben rechts auf den Mond um den Dark Mode zu aktivieren
 6. Wähle oben rechts die Zahnräder (Einstellungen) an
-    * Klicke oben rechts neben "Theme" und wähle "Monokai" aus 
-    * Aktiviere "Indented Soft Wrap" indem du auf das weiße Kästchen daneben klickst
+    * In den Einstellungen bei "Soft Wrap" wähle "View" aus
+    * Klicke in den Browser irgendwo ausserhalb der Einstellungen hin um diese zu schliessen
 7. Wähle oben links das Icon mit dem Ordner (Open File from Disc) an
 8. Navigiere in den Ordner in den du die ZIP Datei entpackt hast
 9. Navigieren weiter in den Ordner "kapitel"

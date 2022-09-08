@@ -1,3 +1,5 @@
+# Kapitel: Datentypen
+
 # Ihr habt bereits gelernt, dass Python den jeweiligen Datentyp automatisch zuweist. Wenn ihr in Python wissen wollt, von welchem Typ eure Variable ist, könnt ihr dazu den type() - Befehl nutzen. Unten seht ihr ein Beispiel.
 
 # TODO: 

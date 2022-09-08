@@ -1,9 +1,14 @@
+# Kapitel: Rechenoperatoren
+
+# Man kann in Python auch rechnen und alles mögliche auf der Konsole ausgeben.
+# Dafür haben wir schon den Befehl 'print("Hallo Welt")' verwendet.
+
 # TODO: Schaut euch die Befehle 1 bis 5 an und schreibt jeden Code nochmal ab. Beachtet sowohl die Leerzeichen, als auch die Gänsefüßchen bei eurer Eingabe! Klickt für jede Option auf "Run" und schaut euch das Ergebnis an. Was fällt euch auf?
 # Befehl 1: print(3 + 3)
 # Befehl 2: print("3 + 3")
 # Befehl 3: print( "6 + 1/2 = ", 6 + 1/2)
-# Befehl 4: print(Aloha)
-# Befehl 5: print("Aloh", ' a', "a")
+# Befehl 4: print(aloha)
+# Befehl 5: print("aloh", " a", "a")
 
 
 
