@@ -1,5 +1,7 @@
-# projektwoche-basic-scripting
-Eine Aufgabensammlung um die Grundlage in der Script-Sprache Python zu lernen
+# Coding für Newbies
+
+Ein einfacher Start ins Programmieren für Schüler*innen ohne Vorkenntnisse.
+Dieses Projekt enthält eine Aufgabensammlung um die Grundlagen der Programmiersprache Python zu lernen.
 
 # Wie fange ich an?
 
@@ -8,10 +10,10 @@ Eine Aufgabensammlung um die Grundlage in der Script-Sprache Python zu lernen
 3. Navigiere in deinem Explorer zu der ZIP Datei und entpacke sie
 4. Öffne die Seite https://www.online-python.com/ in deinem Browser
 5. Klicke oben rechts auf den Mond um den Dark Mode zu aktivieren
-6. Wähle oben rechts die Zahnräder bzw. Einstellungen an
+6. Wähle oben rechts die Zahnräder (Einstellungen) an
     * Klicke oben rechts neben "Theme" und wähle "Monokai" aus 
     * Aktiviere "Indented Soft Wrap" indem du auf das weiße Kästchen daneben klickst
-7. Wähle oben links das Icon mit dem Ordner an (Open File from Disc)
+7. Wähle oben links das Icon mit dem Ordner (Open File from Disc) an
 8. Navigiere in den Ordner in den du die ZIP Datei entpackt hast
 9. Navigieren weiter in den Ordner "kapitel"
 10. Öffne dort die Datei `01-hello-world.py`
