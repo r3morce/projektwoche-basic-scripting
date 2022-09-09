@@ -15,6 +15,13 @@
 
 # 3. Schritt: Fügt drei weitere Variablen (ergebnis_sub, ergebnis_mul und ergebnis_div) hinzu. Speichert das Ergebnis der Subtraktion (-), das Ergebnis der Multiplikation (*) und das Ergebnis der Division (/) in der jeweiligen Variablen. Fügt nun auch die passenden print-Befehle in das Programm ein.
 
-# 4. Schritt: Extra-Challenge: Das Ergebnis der Division stimmt leider nicht, wenn keine natürliche Zahl rauskommt. Welchen Datentyp braucht ihr für Kommazahlen? 
+# 4. Schritt: Extra-Challenge: Kennt ihr diesen Rechenoperator % Er heisst Modulo, wendet ihn an und findet heraus was er tut
 
-# Beachtet: Auch beim print-Befehl müsst ihr Anpassungen vornehmen.
+
+zahl_1 = int(input("Zahl 1? "))
+zahl_2 = int(input("Zahl 2? "))
+
+print(zahl_1 + zahl_2)
+print(zahl_1 - zahl_2)
+print(zahl_1 * zahl_2)
+print(zahl_1 / zahl_2)
