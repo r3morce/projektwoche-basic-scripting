@@ -1,6 +1,6 @@
 # Transferleistung: Taschenrechner
 
-# Programmiert einen einfachen Taschenrechner, der zwei Integer Werte abfragt und dann jeweils das Ergebnis der Addition, der Subtraktion, der Multiplikation, sowie der Division berechnet und anzeigt.
+# Programmiert einen einfachen Taschenrechner, der zwei Integer Werte (Ganzzahl) abfragt und dann jeweils das Ergebnis der Addition, der Subtraktion, der Multiplikation, sowie der Division berechnet und anzeigt.
 
 # Die Grundlagen dazu habt ihr bereits gelernt!
 
