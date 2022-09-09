@@ -8,14 +8,18 @@
 # Was ist Input?
 # Input fordert den Nutzer auf in der Konsole etwas einzugegeben.
 # Das was eingegeben wurde kann in einer Variable gespeichert werden.
+# Der Code dafür sieht so aus:
+# input("Wie heisst du?")
+
+
+# Hier wird der in Variablen "name" der "Input" aus der Konsole gespeichert.
+name = input("Wie heisst du?")
 
 # TODO: Klick auf "Run" und beantwortet die Fragen in der Konsole.
 
-# Hier wird der in Variablen "name" die Eingabe (Input) aus der Konsole gespeichert.
-name = input("Wie heisst du?")
 
 # Hier werden nun der Text "Hallo" und der abgefragte Name ausgegeben.
-# Über das Komma werden die gewünschten Elemente für die Ausgabe aufgelistet.
+# Über das Komma werden die gewünschten Werte für die Ausgabe aufgelistet.
 print("Hallo", name, "!")
 
 
@@ -26,6 +30,6 @@ print("Hallo", name, "!")
 # name = ...
 # alter = ...
 # Variablen werden im Programm angelegt.
-# Dazu sagt man auch "Man deklariert (implizit) eine Variable"
+# Dazu sagt man auch "Man deklariert eine Variable" oder "Man legt eine Variable an" oder "Man erstellt eine Variable"
 # Das macht man meistens so:
 # variablenname =

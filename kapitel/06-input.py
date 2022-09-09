@@ -4,6 +4,6 @@
 # Tipp: Werte könnt ihr mit input("...") einlesen. Bei der Aufgabe mit Name und Alter hatten wir das schon.
 
 zahl_1 = 3
-zahl_2 = 3
+zahl_2 = 5
 
 print(zahl_1 + zahl_2)

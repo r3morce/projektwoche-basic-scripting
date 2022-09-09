@@ -15,6 +15,7 @@ print("Die Variable 'ich_bin_ein_int' ist vom Type", type(ich_bin_ein_int))
 
 
 # Hilfestellung:
+# Ein Beispiel für ein Integer ist 3 Das steht oben schon
 # Ein Beispiel für ein String ist "Aloha"
 # Ein Beispiel für ein Boolean ist True oder False
 # Ein Beispiel für ein Float ist 3.5
