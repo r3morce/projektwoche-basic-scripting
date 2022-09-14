@@ -1,19 +1,15 @@
-# Kapitel: Input und Variablen
-
-# Was sind Variablen?
-# Variablen sind Platzhalter, die beliebige Inhalte haben können. Ihr könnt euren Namen in der Variable "name" speichern, den Namen eures Lehrers oder den Namen eines Mitschülers. Sobald ihr etwas in der Variablen gespeichert habt, merkt sich der Computer das und ihr könnt später im Programm wieder darauf zugreifen.
-# Der Code dafür sieht so aus:
-# name = ...
+# Kapitel: Input
 
 # Was ist Input?
 # Input fordert den Nutzer auf in der Konsole etwas einzugegeben.
-# Das was eingegeben wurde kann in einer Variable gespeichert werden.
 # Der Code dafür sieht so aus:
 # input("Wie heisst du?")
+# input() ist ein festgelegter Befehl und in den Klammern steht, was auf der Konsole abgefragt wird.
+# Das was eingegeben wird, wird üblicherweise in einer Variable gespeichert.
 
-
-# Hier wird der in Variablen "name" der "Input" aus der Konsole gespeichert.
-name = input("Wie heisst du?")
+# Ein Beispiel
+name = input("Wie heisst du? ")
+# Python führt zuerst der Befehl input() aus und danach wird der eingegebene Name in der Variablen name gespeichert.
 
 # TODO: Klick auf "Run" und beantwortet die Fragen in der Konsole.
 
