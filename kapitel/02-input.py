@@ -10,17 +10,15 @@
 # Ein Beispiel
 name = input("Wie heisst du? ")
 # Python führt zuerst der Befehl input() aus und danach wird der eingegebene Name in der Variablen name gespeichert.
+# Der gespeicherte name kann zum Beispiel wieder mit dem Befehl print ausgegeben werden.
+
+# Über das Komma werden die gewünschten Werte für die Ausgabe aufgelistet.
+print("Hallo", name, "!")
 
 # TODO: Klick auf "Run" und beantwortet die Fragen in der Konsole.
 
 
-# Hier werden nun der Text "Hallo" und der abgefragte Name ausgegeben.
-# Über das Komma werden die gewünschten Werte für die Ausgabe aufgelistet.
-print("Hallo", name, "!")
-
-
 # TODO: Passt den Code so an, dass er auch euer Alter abfragt und ausgibt.
-
 
 # Um den Namen und das Alter zu speichern, habt ihr Variablen verwendet:
 # name = ...
