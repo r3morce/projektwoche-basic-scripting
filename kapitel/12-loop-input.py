@@ -1,0 +1,24 @@
+# Kapitel: Schleifen mit Variablen
+
+# Was sind Schleifen?
+# Schleifen braucht ihr immer dann, wenn ihr Dinge wiederholen möchtet.
+# Ihr könnt Texte wiederholen, ebenso wie Zahlen oder beliebige Befehle.
+# Wichtig ist, dass eure Schleife immer eine Abbruchbedingung hat. Ansonsten habt ihr eine Endlosschleife und das Programm endet niemals.
+
+# Es gibt verschiedene Arten von Schleifen, hier behandeln wir die for-in-Schleife
+
+# Das Grundgerüst einer for-in-Schleife besteht aus verschiedenen Bestandteilen:
+# for Variable in Liste:
+#   Python-Befehl
+
+# Der print-Befehl in einer Schleife kann Variablen ausgeben.
+# Das was in der Variable steht kann auch durch ein input() eingegeben werden.
+
+benutzer_eingabe = input("Was soll fünf mal wiederholt werden? ")
+
+# Ein Beispiel
+for i in range(5):
+    print(benutzer_eingabe)
+
+
+# TODO: Drücke "Run" und befolge die Anweisungen auf der Konsole, was passiert?

@@ -12,8 +12,8 @@
 #   Python-Befehl
 
 # Schleife die Text ausgibt:
-for zahl in range(10):
-    # Der Code der nach der Schleifendefinition eingerückt steht wird ausgeführt
+for i in range(10):
+    # Der Code der nach der Schleifendefinition muss eingerückt sein, dann wird er ausgeführt
     print("Python ist eine tolle Programmiersprache")
 
 # TODO: Führt den Code mit "Run" aus und schaut was passiert.
