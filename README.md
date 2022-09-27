@@ -1,7 +1,7 @@
 # Coding für Newbies
 
 Ein einfacher Start ins Programmieren für Schüler*innen ohne Vorkenntnisse.
-Dieses Projekt enthält eine Aufgabensammlung um die Grundlagen der Programmiersprache Python zu lernen.
+Dieses Projekt enthält eine Aufgabensammlung um die Programmiergrundlagen in Python zu lernen.
 
 # Wie fange ich an?
 
