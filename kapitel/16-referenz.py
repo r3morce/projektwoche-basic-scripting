@@ -56,17 +56,19 @@ for game_modus in game_modes:
 
 # Vergleich
 # Mit einem Vergleich können Werte geprüft werden
-ist_nickname_gleich = "Ill Bill" == "Ill Will"
+ist_nickname_gleich = "Ill Bill" == "lIl Bill"
 
 # Datentypen
-wert_1 = "Programmieren für Newbies" # Das ist ein String (Zeichenkette)
-wert_2 = 23 # Das ist ein Integer (Ganzzahl)
-wert_3 = 3.14 # Das ist ein Float (Kommazahl)
-wert_4 = False # Das ist ein Boolean (Wahrheitswert)
+variable_1 = "Programmieren für Newbies" # Das ist ein String (Zeichenkette)
+variable_2 = 23 # Das ist ein Integer (Ganzzahl)
+variable_3 = 3.14 # Das ist ein Float (Kommazahl)
+variable_4 = False # Das ist ein Boolean (Wahrheitswert)
+variable_5 = ["Top", "Bot", "Mid", "ADC", "Sup", "Jungle"]
 
 # Typenprüfung
 # Es gibt verschiedenen Datentypen, mit type() könnt ihr diese herausfinden. Das wird hauptsächliche zum nachvollziehen von Fehlern (Debugging) verwendet.
-print(wert_1, "ist vom Typ", type(wert_1))
-print(wert_2, "ist vom Typ", type(wert_2))
-print(wert_3, "ist vom Typ", type(wert_3))
-print(wert_4, "ist vom Typ", type(wert_4))
+print("Der Wert in variable_1 ist vom Typ", type(variable_1))
+print("Der Wert in variable_2 ist vom Typ", type(variable_2))
+print("Der Wert in variable_3 ist vom Typ", type(variable_3))
+print("Der Wert in variable_4 ist vom Typ", type(variable_4))
+print("Der Wert in variable_4 ist vom Typ", type(variable_5))
