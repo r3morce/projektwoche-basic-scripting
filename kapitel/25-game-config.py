@@ -7,4 +7,4 @@
 # TODO: Macht das Spiel fogendermaßen konfigurierbar
 # Der Spieler kann zwischen zwei Schwierigkeitsgraden wählen.
 # Beim normalen Schwierigkeitsgrad hat der Spieler weiterhin drei Versuche und ihr sagt dem Spieler ob der zu hoch oder zu niedrig ist
-# Beim harten Schwierigkeitsgrad hat der Spieler zwei Versuche und er bekommt keine weiteren Infos
+# Beim zweiten Schwierigkeitsgrad hat der Spieler nur zwei Versuche und er bekommt keine weiteren Infos

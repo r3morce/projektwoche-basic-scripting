@@ -1,5 +1,5 @@
 # Index
-# Es gibt die Möglichkeit aus einer Liste auf nur ein bestimmtes Element zuzugreifen.
+# Es gibt die Möglichkeit in einer Liste auf nur ein bestimmtes Element zuzugreifen.
 
 # Dazu brauchen wir eine Liste
 all_agents = ["Astra", "Breach", "Brimstone", "Chamber", "Cypher", "Kett", "KAY/O", "Killjoy", "Neon", "Omen", "Phoenix", "Raze", "Reyna", "Sage", "Skye", "Sova", "Viper", "Yoru"]
@@ -13,4 +13,4 @@ print(erster_agent)
 zweiter_agent = all_agents[1]
 print(zweiter_agent)
 
-# TODO: Speichere den dritten Agent in einer Variable und printe diese
+# TODO: Greife auf den dritten Agent in der Liste zu, speichere ihn einer Variable und printe diese

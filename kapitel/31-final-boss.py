@@ -9,3 +9,5 @@
 
 # Der Spieler könnte zum Beispiel einem Labyrinth entfliehen.
 # Oder er muss einen Gegenstand finden und nur wenn er ihn hat kann er die Schatzkiste öffnen
+
+# Viel Erfolg und viel Spaß, tobt euch aus!

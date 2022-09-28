@@ -1,7 +1,7 @@
-# Um mal mit echten Daten zu arbeiten habe ich die inoffiziellen Valorant Schnittstelle angefragt:
+# Um mal mit echten Daten zu arbeiten habe ich die inoffizielle Valorant Schnittstelle angefragt:
 # https://valorant-api.com/v1/agents
 # und das hier war die Antwort der Schnittstelle:
-
+# Tipp: In Zeile 1450 geht es mit Erklärungen und Aufgaben weiter
 response = {
     "status": 200,
     "data": [
@@ -1448,7 +1448,7 @@ response = {
     ]
 }
 
-# Die Antwort der Schnittstelle ist ein Dictionary.
+# Die Antwort der Schnittstelle ist vom Datentyp Dictionary (dict).
 print(type(response))
 
 # Daraus lesen wir die Infos über die Agents und speichern sie in einer Variable. Der Schlüssel (Key) unter dem die Agents abgelegt sind ist "data"
