@@ -8,12 +8,12 @@
 # Das was eingegeben wird, wird üblicherweise in einer Variable gespeichert.
 
 # Ein Beispiel
-name = input("Wie heisst du? ")
+name_des_nutzers = input("Wie heisst du? ")
 # Python führt zuerst der Befehl input() aus und danach wird der eingegebene Name in der Variablen name gespeichert.
-# Der gespeicherte name kann zum Beispiel wieder mit dem Befehl print ausgegeben werden.
+# Der gespeicherte name_des_nutzers kann zum Beispiel wieder mit dem Befehl print ausgegeben werden.
 
 # Über das Komma werden die gewünschten Werte für die Ausgabe aufgelistet.
-print("Hallo", name, "!")
+print("Hallo", name_des_nutzers, "!")
 
 # TODO: Klick auf "Run" und beantwortet die Fragen in der Konsole.
 
@@ -21,8 +21,8 @@ print("Hallo", name, "!")
 # TODO: Passt den Code so an, dass er auch euer Alter abfragt und ausgibt.
 
 # Um den Namen und das Alter zu speichern, habt ihr Variablen verwendet:
-# name = ...
-# alter = ...
+# name_des_nutzers = ...
+# alter_des_nutzers = ...
 # Variablen werden im Programm angelegt.
 # Dazu sagt man auch "Man deklariert eine Variable" oder "Man legt eine Variable an" oder "Man erstellt eine Variable"
 # Das macht man meistens so:

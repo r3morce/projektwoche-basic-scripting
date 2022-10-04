@@ -7,3 +7,5 @@ zahl_1 = 3
 zahl_2 = 5
 
 print(zahl_1 + zahl_2)
+
+# Ist die Ausgabe nicht so wie erwartet? Die Lösung dafür erarbeitet ihr im nächsten Kapitel

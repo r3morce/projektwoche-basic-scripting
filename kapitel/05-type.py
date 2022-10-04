@@ -9,7 +9,7 @@
 
 
 ich_bin_ein_int = 3
-print("Die Variable 'ich_bin_ein_int' ist vom Type", type(ich_bin_ein_int))
+print("Die Variable 'ich_bin_ein_int' ist vom Typ", type(ich_bin_ein_int))
 
 
 

@@ -13,27 +13,29 @@
 
 # Statt range() kann auch eine Liste in die for-in-Schleife eingefügt werden.
 # Ein Beispiel
-for agent_name in ["Brimstone", "Cypher", "Sage"]:
+for _ in ["Brimstone", "Cypher", "Sage"]:
     print("Python ist eine tolle Programmiersprache")
 
-# In der Liste nach "in" stehen drei Werte, deshalb wird die Schleife drei mal ausgeführt
 
 # TODO: Drücke "Run" und schau was auf der Konsole passiert.
+# Erklärung: In der Liste nach "in" stehen drei Werte, deshalb wird die Schleife drei mal ausgeführt
 
-# Aber da steht auch agent_name und in der Liste stehen Namen, was soll das?
-# Erklärung:
-# agent_name ist eine Variable, das kennt ihr schon.
-# Für jeden Durchlauf der Schleife wird ein Wert aus der Liste in die Variable agent_name gespeichert.
-# Der erste Name in der Liste ist "Brimstone", wenn die Schleife das erste mal durchlaäuft, ist in agent_name "Brimstone" gespeichert.
-# Der zweite Name in der Liste ist "Cypher", wenn die Schleife das zweite mal durchläuft, ist in agent_name "Brimstone" gespeichert.
 
 # TODO: Erweitere die Liste um einen weiteren Namen, dann drücke "Run" und schau was auf der Konsole passiert. Was hat sich geändert?
 
 
-# TODO: Ändere den print Befehl in der Schleife folgendermaßen:
-# print("Am liebsten spiele ich", agent_name)
-
+# TODO: Ersetze den Unterstrich _ mit agent_name, dann drücke "Run" und schau was auf der Konsole passiert. Was hat sich geändert?
+# TODO: Ändere den print Befehl in der Schleife folgendermaßen: print("Am liebsten spiele ich", agent_name)
 # TODO: Drücke "Run" und schau was auf der Konsole passiert. Was hat sich geändert?
+# Erklärung:
+# agent_name ist eine Variable.
+# Variablen kennt ihr schon aus den ersten Kapitel, da speichert ihr Inhalte drin, wie zum Beispiel Namen.
+# Ihr habt Variablen direkt zugewiesen: mein_name = "Mike"
+# Ihr habt Variablen mit Benutzereingaben gefüllt: name_des_nutzers = input("Name?")
+# In der for-in Schleife legt ihr eine Variable agent_name an und diese wird bei jeden Schleifendurchgang mit einem Eintrag aus der Liste dahinter neu gefüllt.
+# Beim ersten Durchlauf ist "Brimstone" in agent_name gespeichert
+# Beim zweiten Durchlauf ist "Cypher" in agent_name gespeichert
+# Beim dritten Durchlauf ist "Sage" in agent_name gespeichert
 
 # all_agents ist eine Variable die eine Liste aller Agents enthält, die brauchen wir später.
 all_agents = ["Astra", "Breach", "Brimstone", "Chamber", "Cypher", "Kett", "KAY/O", "Killjoy", "Neon", "Omen", "Phoenix", "Raze", "Reyna", "Sage", "Skye", "Sova", "Viper", "Yoru"]

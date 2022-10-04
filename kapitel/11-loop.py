@@ -12,7 +12,7 @@
 #   Python-Befehl
 
 # Schleife die Text ausgibt:
-for i in range(10):
+for _ in range(10):
     # Der Code der nach der Schleifendefinition muss eingerückt sein, dann wird er ausgeführt
     print("Python ist eine tolle Programmiersprache")
 

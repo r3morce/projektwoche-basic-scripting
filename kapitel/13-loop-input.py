@@ -17,7 +17,8 @@
 benutzer_eingabe = input("Was soll fünf mal wiederholt werden? ")
 
 # Ein Beispiel
-for i in range(5):
+for _ in range(5):
+    # Der Code der nach der Schleifendefinition muss eingerückt sein, dann wird er ausgeführt
     print(benutzer_eingabe)
 
 

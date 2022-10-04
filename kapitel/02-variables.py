@@ -1,7 +1,7 @@
 # Kapitel: Variablen
 
-# Was sind Variablen?
-# Variablen sind Platzhalter, die beliebige Inhalte haben können.
+# Was ist eine Variable?
+# Eine Variable ist ein Platzhalter, die einen beliebige Inhalte haben kann.
 # Ihr könnt euren Namen in einer Variable speichern, den Namen eures Lehrers oder eine Zahl. Sobald ihr etwas in der Variablen gespeichert habt, merkt sich der Computer das und ihr könnt später im Programm wieder darauf zugreifen.
 # Ihr dürft fast frei entscheiden wie eure Variable heisst, am besten so dass ihr sie wieder erkennt.
 # Normalerweise erstellt man eine Variable und speichert direkt was drin. 
