@@ -3,7 +3,7 @@
 # Lernt die Ausgabe (das, was unten in der Konsole angezeigt wird, nachdem ihr auf
 # "Run" geklickt habt) besser kennen.
 
-# Hier wird der Variablen "nickname" ein Input aus der Konsole zugewiesen
+# Hier wird der Variable "nickname" ein Input aus der Konsole zugewiesen
 nickname = input("Wie ist dein Nickname?")
 
 # Hier wird der Text "Hallo" und der abgefragte Variable "nickname" ausgegeben.
