@@ -22,3 +22,8 @@ print("Hallo Welt!")
 # Sollen Zahlen ausgegeben werden, können diese ohne Anführungszeichen hingeschrieben werden
 
 # TODO: Passt den Code so an, dass eine Zahl auf der Konsole ausgegeben wird. Benutzt dafür keine Anführungszeichen.
+
+
+# Mit dem print Befehl können auch mehrere Dinge nacheinenader ausgegeben werden
+# TODO: Entferne das # aus der nächsten Zeile und drücke auf Run, was passiert?
+# print("Hallo", "das", "ist", 1, "Liste", "!")

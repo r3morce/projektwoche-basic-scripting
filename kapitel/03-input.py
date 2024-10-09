@@ -5,25 +5,34 @@
 # Der Code dafür sieht so aus:
 # input("Wie heisst du?")
 # input() ist ein festgelegter Befehl und in den Klammern steht, was auf der Konsole abgefragt wird.
-# Das was eingegeben wird, wird üblicherweise in einer Variable gespeichert.
 
 # Ein Beispiel
-name_des_nutzers = input("Wie heisst du? ")
-# Python führt zuerst der Befehl input() aus und danach wird der eingegebene Name in der Variablen name gespeichert.
-# Der gespeicherte name_des_nutzers kann zum Beispiel wieder mit dem Befehl print ausgegeben werden.
+input("Wie heisst du? ")
 
-# Über das Komma werden die gewünschten Werte für die Ausgabe aufgelistet.
-print("Hallo", name_des_nutzers, "!")
-
-# TODO: Klick auf "Run" und beantwortet die Fragen in der Konsole.
+# TODO: Klick auf "Run", beantworte die Frage und drücker Enter, was passiert?
 
 
-# TODO: Passt den Code so an, dass er auch euer Alter abfragt und ausgibt.
+
+# Das was per input eingegeben wird, soll nun in einer Variable gespeichert werden.
+# Das kennt ihr aus dem vorherigen Kapitel
+# TODO: Passe die Zeile 10 folgendermaßen an: name_des_nutzers = input("Wie heisst du? ")
+
+
+
+# TODO: Passt den Code so an, dass er euer Alter abfragt und ausgibt. Drücke Run und folge den Anweisungen, was passiert?
+
+# Denk daran die Variable richtig zu nennen. Jetzt wird ja das Alter abgefragt, dann sollte auch die Variable nicht alter_des_nutzers heissen und nicht mehr name_des_nutzers
+# TODO: Ändere name_des_nutzers in alter_des_nutzers. Drücke Run und folge den Anweisungen, was passiert?
 
 # Um den Namen und das Alter zu speichern, habt ihr Variablen verwendet:
 # name_des_nutzers = ...
 # alter_des_nutzers = ...
 # Variablen werden im Programm angelegt.
 # Dazu sagt man auch "Man deklariert eine Variable" oder "Man legt eine Variable an" oder "Man erstellt eine Variable"
-# Das macht man meistens so:
+# Das macht man so
 # variablenname =
+
+# TODO: Challenge Teil 1: Frage nacheinander Name und Alter des Nutzers ab und gib danach beides per print aus.
+
+
+# TODO: Challenge Teil 2: Gib Name und Alter in der gleichen Zeile aus. Sowas passiert schon im ersten Kapitel ganz unten.

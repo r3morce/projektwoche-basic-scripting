@@ -20,6 +20,9 @@
 
 # Zusammenfassung: Ihr habt gelernt, dass ihr Wörter bzw. Zeichenfolgen in “Gänsefüßchen” setzen müsst, Zahlen jedoch nicht.
 # Wieso ist das so? Das liegt an den unterschiedlichen Datentypen, die man in der Programmierung verwenden kann.
+
+
+
 # Hier sind ein paar typische Datentypen:
 # "Integer" sind Ganzzahlen
 # "Float" sind Kommazahlen, in der Programmierung sind die aber mit einem Punkt getrennt, zum Beispiel 3.5

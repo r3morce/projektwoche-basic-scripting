@@ -1,8 +1,8 @@
 # Kapitel: Variablen
 
 # Was ist eine Variable?
-# Eine Variable ist ein Platzhalter, die einen beliebige Inhalte haben kann.
-# Ihr könnt euren Namen in einer Variable speichern, den Namen eures Lehrers oder eine Zahl. Sobald ihr etwas in der Variablen gespeichert habt, merkt sich der Computer das und ihr könnt später im Programm wieder darauf zugreifen.
+# Eine Variable ist ein Platzhalter, die einen beliebige Inhalt haben kann.
+# Ihr könnt euren Namen in einer Variable speichern, den Namen eures Lehrers oder eine Zahl. Sobald ihr etwas in der Variable gespeichert habt, merkt sich der Computer das und ihr könnt später im Programm wieder darauf zugreifen.
 # Ihr dürft fast frei entscheiden wie eure Variable heisst, am besten so dass ihr sie wieder erkennt.
 # Normalerweise erstellt man eine Variable und speichert direkt was drin. 
 
@@ -13,16 +13,16 @@ meine_variable = "Deadpool"
 # Noch paar Beispiele
 name = "Coding für Newbies"
 referent = "Mathias"
-aktuelles_spiel = "Aliens: Fireteam Elite"
+aktuelles_spiel = "Shogun Showdown"
 
-# Genau wie beim print Befehl braucht ihr bei einzelnen Zahlen keine Anführungszeichen benutzen.
-aktuelles_jahr = 2022
+# Genau wie beim print Befehl braucht ihr bei Zahlen keine Anführungszeichen benutzen.
+aktuelles_jahr = 2024
 
 # TODO: Erstellt die Variable mein_name und speichert euren eigenen Namen darin. In Zeile 14 passiert schon was ähnliches.
 
 
 
-# TODO: Drückt "Run", was passiert? Warum?
+# TODO: Drückt "Run", was passiert bzw passiert nicht? Warum?
 
 
 
