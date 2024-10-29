@@ -17,4 +17,7 @@ print(zahl_1 + zahl_2)
 
 # TODO: Klickt auf "Run" und gebt zwei Ganzzahlen ein.
 
+# TODO: Erweitere die Ausgabe, so dass dort nicht nur das Ergebnis steht, sondern auch ein kurzer Text dazu.
+# Zum Beispiel: print("Das Ergebnis ist ", zahl_1 + zahl_2)
+
 # TODO: Was passiert, wenn ihr nun statt einer Zahl einen Buchstaben oder eine Kommazahl eingebt?

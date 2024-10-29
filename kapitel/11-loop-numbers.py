@@ -1,4 +1,5 @@
-# Kapitel: Schleifen mit Variablen
+
+# Kapitel: Schleifen mit Zahlen
 
 # Was sind Schleifen?
 # Schleifen braucht ihr immer dann, wenn ihr Dinge wiederholen möchtet.
@@ -11,20 +12,16 @@
 # for Variable in Liste:
 #   Python-Befehl
 
-# Der print-Befehl in einer Schleife kann natürlich auch Variablen ausgeben
-
-# lern_mantra ist eine Variable die Text enthält
-lern_mantra = "Sowas muss immer und immer wieder wiederholt werden."
+# Der print-Befehl in einer Schleife kann natürlich auch Zahlen ausgeben
 
 # Ein Beispiel
 for zahl in range(5):
     # Der Code der nach der Schleifendefinition muss eingerückt sein, dann wird er ausgeführt
-    print(lern_mantra)
+    print("In der Variable `zahl` ist aktuell", zahl, "gespeichert")
 
 
 
 # TODO: Drücke "Run" und schau was auf der Konsole passiert.
 
-# TODO: Passe den Text der in der Variable gespeichert wird an, dann drücke "Run" und schau was auf der Konsole passiert.
 
-# TODO: Passt den Code so an, dass er 3 Mal "Python ist aber auch eine Schlange." ausgibt. Dieser Text soll in einer Variable gespeichert sein.
+# TODO: Passt den Code so an, dass er genau 3 Mal "Python ist aber auch eine Schlange." ausgibt.

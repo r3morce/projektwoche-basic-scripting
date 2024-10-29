@@ -11,26 +11,17 @@
 # for Variable in Liste:
 #   Python-Befehl
 
-# Schleife die Text ausgibt:
-for _ in range(10):
+# Hier als Beispiel eine Schleife die jeden Buchstaben eines Textes einzeln ausgibt:
+for buchstabe in "Python":
     # Der Code der nach der Schleifendefinition muss eingerückt sein, dann wird er ausgeführt
-    print("Python ist eine tolle Programmiersprache")
+    print(buchstabe)
 
 # TODO: Führt den Code mit "Run" aus und schaut was passiert.
 
-# "zahl" könnt ihr erstmal ignoriere, darauf gehen wir später ein.
-# Wie genau range() funktioniert, finden wir später im TODO heraus.
-
-# Der Code in der Schleife oben wird 10 mal ausgeführt.
-# In unserem Beispiel wird der print-Befehl 10 mal ausgeführt.
-# Nach 10 mal wird die Schleife beendet.
+# Der Code in der Schleife oben wird 6 mal ausgeführt.
+# "Python" ist ein Wort, aber auch eine Liste von Buchstaben.
 
 
-# TODO: Passt den Code so an, dass er nur drei mal ausgeführt wird.
+# TODO: Schreibe vor und nach der Schleife jeweils einen print Befehl. Diese neuen Befehle sollen nur einmal ausgeführt werden.
+# Hinweis: Beachte die Einrückung
 
-
-
-
-
-
-# TODO: Passt den Code so an, dass er 3 Mal "Python ist aber auch eine Schlange." ausgibt.
