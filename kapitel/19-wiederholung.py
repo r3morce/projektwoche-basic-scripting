@@ -6,3 +6,4 @@ lieblingszahl = 7
 
 
 # TODO: Sag dem Benutzer ob der die gleiche Lieblingszahl wie ich hat
+# Tipp: Nutzereingaben abfragen geht mit input(), schaue auch in Kapitel 3

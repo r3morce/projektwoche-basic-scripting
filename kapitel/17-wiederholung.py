@@ -3,3 +3,4 @@
 
 
 # TODO: Printe den eingegeben Namen Uppercase
+# Tipp: Schaue in Kapitel 16, da passiert sowas schon
