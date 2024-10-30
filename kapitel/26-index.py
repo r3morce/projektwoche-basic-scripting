@@ -13,4 +13,9 @@ print(erster_agent)
 zweiter_agent = all_agents[1]
 print(zweiter_agent)
 
+# TODO: Gib mit print den dritten Agenten in der Liste aus
+
+
+
 # TODO: Greife auf den dritten Agent in der Liste zu, speichere ihn einer Variable und printe diese
+
